@@ -6,7 +6,6 @@
 ---
 
 ## ✅ 폴더 구조
-'''
 📁 class1       - 백준 Class 1 문제
 📁 class2       - 백준 Class 2 문제
 '''
