@@ -1,4 +1,5 @@
 ---
+```cpp
 #include <iostream>
 using namespace std;
 
@@ -31,10 +32,13 @@ int main()
     }
     return 0;
 } 
+```
 ---
-시간 초과로 인한 실패
+    
+### ❗ 시간 초과로 인한 실패  
+    
 ---
-
+```cpp
 #include <iostream>
 #include <vector>
 #include <algorithm>
@@ -60,6 +64,7 @@ int main()
         if(binary_search(arr.begin(), arr.end(), x)) cout << "1\n";
         else cout << "0\n";
     }
+    ```
     return 0;
 }
   
