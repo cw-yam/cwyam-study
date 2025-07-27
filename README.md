@@ -31,7 +31,7 @@
 - C++ STL과 알고리즘 구현 능력 향상
 - GitHub를 활용해 코드 관리 습관 기르기
 
---
+---
 
 ## 📌 사용 언어
 [C++17](https://img.shields.io/badge/C++17-00599C?logo=c%2b%2b&logoColor=white)
