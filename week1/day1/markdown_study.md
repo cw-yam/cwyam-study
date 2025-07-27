@@ -1,4 +1,5 @@
 # Day 1: Markdown 기초 공부 정리
+-Markdown 기본 문법과 활용법에 대해 학습하고 정리한 내용입니다.  
 
 ## 1. 제목 (Heading)
 
