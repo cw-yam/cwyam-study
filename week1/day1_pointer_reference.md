@@ -72,9 +72,9 @@ const int* const ptr3 = &val; // 값과 주소 모두 수정 불가
 
 선언 형태	| 의미
 :---|:---
-'const int* p'|값 수정 불가 (*p = ... ❌)
-'int* const p'|주소 수정 불가 (p = ... ❌)
-'const int* const p'|값도 주소도 수정 불가
+```cppconst int* p```|값 수정 불가 (*p = ... ❌)
+```cppint* const p```|주소 수정 불가 (p = ... ❌)
+```cppconst int* const p```|값도 주소도 수정 불가
 
 
 ## ✅ 요약 정리
