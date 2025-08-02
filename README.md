@@ -10,8 +10,8 @@
  날짜       | 문제 번호 | 주제   | 링크  
 :---:|:---|:---:|:---
 2025.07.20|1920|이분 탐색|[코드](test/1920.cpp)
+2025.07.27||포인터와 레지스터 |[코드](week1/day1/pointer_reference.md)
 2025.07.27||markdown 공부|[코드](week1/day1/markdown_study.md)
-2025.07.27||포인터와 레지스터|[코드](week1/day1/pointer_reference.md)
 2025.08.02|1065|한수|[코드](week1/day2/1065.cpp)
 2025.08.02|1978|소수 찾기|[코드](week1/day2/1978.cpp)
 
