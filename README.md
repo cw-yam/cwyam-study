@@ -14,6 +14,9 @@ markdown 공부|week1|day1|[코드](week1/day1/markdown_study.md)
 한수, 소수 찾기|week1|day2|[코드](week1/day2/day2.md)
 셀프 넘버, 평균은 넘겠지|week1|day3|[코드](week1/day3/day3.md)
 STL 공부|week1|day4|[코드](week1/day4/STL_study.md)
+vector 및 set|week1|day5|[코드](week1/day5/vector&set_study.md)
+수 정렬하기 2, 좌표 압축|week1|day6|[코드](week1/day6/day6.md)
+
 
 ---
 
