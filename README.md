@@ -27,8 +27,6 @@ vector 및 set|week1|day5|[코드](week1/day5/vector&set_study.md)
   📁day1
   📁day2
   ...
-  📁day8
-
 📁 week2
   📁day1
   ...
