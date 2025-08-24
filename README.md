@@ -17,7 +17,6 @@ STL 공부|week1|day4|[코드](week1/day4/STL_study.md)
 vector 및 set|week1|day5|[코드](week1/day5/vector&set_study.md)
 수 정렬하기 2, 좌표 압축|week1|day6|[코드](week1/day6/day6.md)
 나는야 포켓몬 마스터 이다솜, 스택|week1|day7|[코드](week1/day7/day7.md)
-큐, 덱|week1|day8|[코드](week1/day8/day8.md)
 
 
 ---
