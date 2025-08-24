@@ -67,19 +67,9 @@ vector 및 set|week1|day5|[코드](week1/day5/vector&set_study.md)
 
 ---
 
-# 📌 알고리즘 학습 체크리스트 (Week 단위 계획)
+# 📌 알고리즘 학습 체크리스트  
 
-## ✅ Week 1 (완료)
-- ✅ 백준 Class 1 전체 풀이  
-- ✅ 백준 Class 2 시작  
-- ✅ STL 기초 학습 시작  
-  - ✅ `vector`  
-  - ✅ `stack`  
-  - ✅ `queue`  
-  - ✅ `deque`  
-- ✅ 기본 입출력 최적화 (`ios::sync_with_stdio(false), cin.tie(NULL)`)  
-- ✅ GitHub 마크다운 정리 루틴 확립    
-
+## ✅ Week 1  
 ### Day 6
 - ✅ [백준 2751번 — 수 정렬하기 2](https://www.acmicpc.net/problem/2751)  
 - ✅ `vector` + `sort` 활용  
@@ -92,7 +82,7 @@ vector 및 set|week1|day5|[코드](week1/day5/vector&set_study.md)
 
 ---
 
-## ✅ Week 2 (진행 중)
+## ✅ Week 2  
 ### Day 1
 - ✅ [백준 10828번 — 스택](https://www.acmicpc.net/problem/10828)  
 - ✅ STL `stack` 활용  
@@ -115,7 +105,7 @@ vector 및 set|week1|day5|[코드](week1/day5/vector&set_study.md)
 
 ---
 
-## 📍 Week 3 (예정)
+## 📍 Week 3  
 ### Day 1
 - ⬜ [백준 10816번 — 숫자 카드 2](https://www.acmicpc.net/problem/10816) (`map` / `unordered_map`)  
 - ⬜ STL `unordered_map` 활용  
@@ -138,7 +128,7 @@ vector 및 set|week1|day5|[코드](week1/day5/vector&set_study.md)
 
 ---
 
-## 📍 Week 4 (예정)
+## 📍 Week 4  
 ### Day 1
 - ⬜ [백준 11724번 — 연결 요소의 개수](https://www.acmicpc.net/problem/11724) (DFS)  
 - ⬜ DFS 기초 (재귀/스택 구현)  
