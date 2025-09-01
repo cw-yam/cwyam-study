@@ -32,7 +32,7 @@ vector 및 set|week1|day5|[코드](week1/day5/vector&set_study.md)
 | 6   | 2751     | 수 정렬하기 2 | ✅ | [문제](https://www.acmicpc.net/problem/2751) |
 | 7   | 18870    | 좌표 압축   | ✅        | [문제](https://www.acmicpc.net/problem/18870) |
 | 8   | 1158     | 요세푸스 문제 | ✅ | [문제](https://www.acmicpc.net/problem/1158) |
-| 9   | 1966     | 프린터 큐  | ⬜ | [문제](https://www.acmicpc.net/problem/1966) |
+| 9   | 1966     | 프린터 큐  | ✅ | [문제](https://www.acmicpc.net/problem/1966) |
 | 10  | 10816    | 숫자 카드 2 | ⬜ | [문제](https://www.acmicpc.net/problem/10816) |
 | 11  | 1920     | 수 찾기   | ⬜ | [문제](https://www.acmicpc.net/problem/1920) |
 | 12  | 2231     | 분해합   | ⬜ | [문제](https://www.acmicpc.net/problem/2231) |
@@ -100,8 +100,8 @@ vector 및 set|week1|day5|[코드](week1/day5/vector&set_study.md)
 - ✅ STL 응용 연습 (문제 해결에 맞는 자료구조 선택하기)  
 
 ### Day 5
-- ⬜ [백준 1966번 — 프린터 큐](https://www.acmicpc.net/problem/1966) (queue + 정렬/우선순위)  
-- ⬜ `priority_queue` 학습  
+- ✅ [백준 1966번 — 프린터 큐](https://www.acmicpc.net/problem/1966) (queue + 정렬/우선순위)  
+- ✅ `priority_queue` 학습  
 
 ---
 
