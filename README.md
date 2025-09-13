@@ -20,7 +20,7 @@ vector 및 set|[코드](week1/day5/vector&set_study.md)
 
 | Day | 문제 번호 | 문제 이름 | 완료 여부 | 링크 |
 |-----|-----------|-----------|-----------|------|
-| 1   | 1000      | A+B       | ✅        | [문제](https://www.acmicpc.net/problem/1000) |
+| 1   | 1000      | A+B       | [✅](week1/day1/pointer_reference.md)       | [문제](https://www.acmicpc.net/problem/1000) |
 | 2   | 10828     | 스택      | ✅        | [문제](https://www.acmicpc.net/problem/10828) |
 | 3   | 10845     | 큐        | ✅        | [문제](https://www.acmicpc.net/problem/10845) |
 | 4   | 10866     | 덱       | ✅        | [문제](https://www.acmicpc.net/problem/10866) |
