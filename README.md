@@ -43,26 +43,6 @@ vector 및 set|[코드](week1/day5/vector&set_study.md)
 
 ---
 
-## ✅ 폴더 구조
-```
-📁 week1
-  📁day1
-  📁day2
-  ...
-📁 week2
-  📁day1
-  ...
-```
----
-
-## 💡 목표
-
-- 하루 1~2문제 꾸준히 풀기
-- C++ STL과 알고리즘 구현 능력 향상
-- GitHub를 활용해 코드 관리 습관 기르기
-
----
-
 # 📌 알고리즘 학습 체크리스트  
 
 ## ✅ Week 1  
@@ -144,6 +124,26 @@ vector 및 set|[코드](week1/day5/vector&set_study.md)
 ### Day 5
 - ⬜ [백준 1932번 — 정수 삼각형](https://www.acmicpc.net/problem/1932) (DP)  
 - ⬜ Class 2 마무리 + DP 실력 강화  
+
+---
+
+## ✅ 폴더 구조
+```
+📁 week1
+  📁day1
+  📁day2
+  ...
+📁 week2
+  📁day1
+  ...
+```
+---
+
+## 💡 목표
+
+- 하루 1~2문제 꾸준히 풀기
+- C++ STL과 알고리즘 구현 능력 향상
+- GitHub를 활용해 코드 관리 습관 기르기
 
 ---
 
