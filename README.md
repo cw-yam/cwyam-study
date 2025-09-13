@@ -27,7 +27,7 @@ vector 및 set|[코드](week1/day5/vector&set_study.md)
 | 5   | 1620     | 나는야 포켓몬 마스터 이다솜 | [✅](week1/day7/day7.md) | [문제](https://www.acmicpc.net/problem/1620) |
 | 6   | 2751     | 수 정렬하기 2 | [✅](week1/day6/day6.md) | [문제](https://www.acmicpc.net/problem/2751) |
 | 7   | 18870    | 좌표 압축   | [✅](week1/day6/day6.md) | [문제](https://www.acmicpc.net/problem/18870) |
-| 8   | 1158     | 요세푸스 문제 | [✅](week2/day4/day4.md) | [문제](https://www.acmicpc.net/problem/1158) |
+| 8   | 1158     | 요세푸스 문제 | [✅](week2/day4/1158.cpp) | [문제](https://www.acmicpc.net/problem/1158) |
 | 9   | 1966     | 프린터 큐  | [✅](week2/day5/day5.md) | [문제](https://www.acmicpc.net/problem/1966) |
 | 10  | 10816    | 숫자 카드 2 | [✅](week3/day1/day1.md) | [문제](https://www.acmicpc.net/problem/10816) |
 | 11  | 1920     | 수 찾기   | [✅](week3/day2/day2.md) | [문제](https://www.acmicpc.net/problem/1920) |
