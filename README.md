@@ -20,11 +20,11 @@ vector 및 set|[코드](week1/day5/vector&set_study.md)
 
 | Day | 문제 번호 | 문제 이름 | 완료 여부 | 링크 |
 |-----|-----------|-----------|-----------|------|
-| 1   | 1000      | A+B       | [✅](week1/day1/pointer_reference.md) | [문제](https://www.acmicpc.net/problem/1000) |
+| 1   | 1000      | A+B       | ✅ | [문제](https://www.acmicpc.net/problem/1000) |
 | 2   | 10828     | 스택      | [✅](10828.md) | [문제](https://www.acmicpc.net/problem/10828) |
 | 3   | 10845     | 큐        | [✅](10845.md) | [문제](https://www.acmicpc.net/problem/10845) |
 | 4   | 10866     | 덱       | [✅](10866.md) | [문제](https://www.acmicpc.net/problem/10866) |
-| 5   | 1620     | 나는야 포켓몬 마스터 이다솜 | [✅](1620.md) | [문제](https://www.acmicpc.net/problem/1620) |
+| 5   | 1620     | 나는야 포켓몬 마스터 이다솜 | [✅](week1/day7/day7.md) | [문제](https://www.acmicpc.net/problem/1620) |
 | 6   | 2751     | 수 정렬하기 2 | [✅](2751.md) | [문제](https://www.acmicpc.net/problem/2751) |
 | 7   | 18870    | 좌표 압축   | [✅](18870.md) | [문제](https://www.acmicpc.net/problem/18870) |
 | 8   | 1158     | 요세푸스 문제 | [✅](1158.md) | [문제](https://www.acmicpc.net/problem/1158) |
