@@ -33,7 +33,7 @@ vector 및 set|week1|day5|[코드](week1/day5/vector&set_study.md)
 | 7   | 18870    | 좌표 압축   | ✅        | [문제](https://www.acmicpc.net/problem/18870) |
 | 8   | 1158     | 요세푸스 문제 | ✅ | [문제](https://www.acmicpc.net/problem/1158) |
 | 9   | 1966     | 프린터 큐  | ✅ | [문제](https://www.acmicpc.net/problem/1966) |
-| 10  | 10816    | 숫자 카드 2 | ⬜ | [문제](https://www.acmicpc.net/problem/10816) |
+| 10  | 10816    | 숫자 카드 2 | ✅ | [문제](https://www.acmicpc.net/problem/10816) |
 | 11  | 1920     | 수 찾기   | ⬜ | [문제](https://www.acmicpc.net/problem/1920) |
 | 12  | 2231     | 분해합   | ⬜ | [문제](https://www.acmicpc.net/problem/2231) |
 | 13  | 11724     | 연결 요소의 개수 (DFS) | ⬜ | [문제](https://www.acmicpc.net/problem/11724) |
@@ -107,8 +107,8 @@ vector 및 set|week1|day5|[코드](week1/day5/vector&set_study.md)
 
 ## 📍 Week 3  
 ### Day 1
-- ⬜ [백준 10816번 — 숫자 카드 2](https://www.acmicpc.net/problem/10816) (`map` / `unordered_map`)  
-- ⬜ STL `unordered_map` 활용  
+- ✅ [백준 10816번 — 숫자 카드 2](https://www.acmicpc.net/problem/10816) (`map` / `unordered_map`)  
+- ✅ STL `unordered_map` 활용  
 
 ### Day 2
 - ⬜ [백준 1920번 — 수 찾기](https://www.acmicpc.net/problem/1920) (이분 탐색)  
