@@ -44,3 +44,20 @@ int main()
     for(int i = 0; i < N.length(); i++) cout << v[i];
     return 0;
 }
+
+---------
+#include <iostream>
+#include <algorithm>
+#include <string>
+using namespace std;
+
+int main() {
+    string N;
+    cin >> N;
+
+    sort(N.rbegin(), N.rend()); //r은 reverse.
+    
+    cout << N;
+    return 0;
+}
+이렇게만 작성해도 정답.
