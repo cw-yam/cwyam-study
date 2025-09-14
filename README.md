@@ -20,26 +20,34 @@ vector 및 set|[코드](week1/day5/vector&set_study.md)
 
 | Day | 문제 번호 | 문제 이름 | 완료 여부 | 링크 |
 |-----|-----------|-----------|-----------|------|
-| 1   | 1000      | A+B       | ✅ | [문제](https://www.acmicpc.net/problem/1000) |
-| 2   | 10828     | 스택      | [✅](week2/day1/day1.md) | [문제](https://www.acmicpc.net/problem/10828) |
-| 3   | 10845     | 큐        | [✅](week2/day2/day2.md) | [문제](https://www.acmicpc.net/problem/10845) |
-| 4   | 10866     | 덱       | [✅](week2/day3/day3.md) | [문제](https://www.acmicpc.net/problem/10866) |
-| 5   | 1620     | 나는야 포켓몬 마스터 이다솜 | [✅](week1/day7/day7.md) | [문제](https://www.acmicpc.net/problem/1620) |
-| 6   | 2751     | 수 정렬하기 2 | [✅](week1/day6/day6.md) | [문제](https://www.acmicpc.net/problem/2751) |
-| 7   | 18870    | 좌표 압축   | [✅](week1/day6/day6.md) | [문제](https://www.acmicpc.net/problem/18870) |
-| 8   | 1158     | 요세푸스 문제 | [✅](week2/day4/1158.cpp) | [문제](https://www.acmicpc.net/problem/1158) |
-| 9   | 1966     | 프린터 큐  | [✅](week2/day5/day5.md) | [문제](https://www.acmicpc.net/problem/1966) |
-| 10  | 10816    | 숫자 카드 2 | [✅](week3/day1/day1.md) | [문제](https://www.acmicpc.net/problem/10816) |
-| 11  | 1920     | 수 찾기   | [✅](week3/day2/day2.md) | [문제](https://www.acmicpc.net/problem/1920) |
-| 12  | 2231     | 분해합   | ⬜ | [문제](https://www.acmicpc.net/problem/2231) |
-| 13  | 11724     | 연결 요소의 개수 (DFS) | ⬜ | [문제](https://www.acmicpc.net/problem/11724) |
-| 14  | 1260     | DFS와 BFS | ⬜ | [문제](https://www.acmicpc.net/problem/1260) |
-| 15  | 1018     | 체스판 다시 칠하기 (브루트포스) | ⬜ | [문제](https://www.acmicpc.net/problem/1018) |
-| 16  | 2239     | 스도쿠 (백트래킹 심화) | ⬜ | [문제](https://www.acmicpc.net/problem/2239) |
-| 17  | 11053     | 가장 긴 증가하는 부분 수열 (DP 입문) | ⬜ | [문제](https://www.acmicpc.net/problem/11053) |
-| 18  | 1932     | 정수 삼각형 (DP) | ⬜ | [문제](https://www.acmicpc.net/problem/1932) |
-| 19  | 1541     | 잃어버린 괄호 (그리디) | ⬜ | [문제](https://www.acmicpc.net/problem/1541) |
-| 20  | 1912     | 연속합 (실버 전 구간 마무리) | ⬜ | [문제](https://www.acmicpc.net/problem/1912) |
+| 1   | 1065     | 한수 | [✅](week1/day2/day2.md) | [문제](https://www.acmicpc.net/problem/1065) |
+| 2   | 1978     | 소수 찾기 | [✅](week1/day2/day2.md) | [문제](https://www.acmicpc.net/problem/1978) |
+| 3   | 4344     | 평균은 넘겠지 | [✅](week1/day3/day3.md) | [문제](https://www.acmicpc.net/problem/4344 ) |
+| 4   | 4673     | 셀프 넘버 | [✅](week1/day3/day3.md) | [문제](https://www.acmicpc.net/problem/4673) |
+| 5   | 2751     | 수 정렬하기 2 | [✅](week1/day6/day6.md) | [문제](https://www.acmicpc.net/problem/2751) |
+| 6   | 18870    | 좌표 압축   | [✅](week1/day6/day6.md) | [문제](https://www.acmicpc.net/problem/18870) |
+| 7   | 1620     | 나는야 포켓몬 마스터 이다솜 | [✅](week1/day7/day7.md) | [문제](https://www.acmicpc.net/problem/1620) |
+| 8   | 10828    | 스택      | [✅](week2/day1/day1.md) | [문제](https://www.acmicpc.net/problem/10828) |
+| 9   | 10845    | 큐        | [✅](week2/day2/day2.md) | [문제](https://www.acmicpc.net/problem/10845) |
+| 10  | 10866    | 덱       | [✅](week2/day3/day3.md) | [문제](https://www.acmicpc.net/problem/10866) |
+| 11  | 1158     | 요세푸스 문제 | [✅](week2/day4/1158.cpp) | [문제](https://www.acmicpc.net/problem/1158) |
+| 12  | 1966     | 프린터 큐  | [✅](week2/day5/day5.md) | [문제](https://www.acmicpc.net/problem/1966) |
+| 13  | 10816    | 숫자 카드 2 | [✅](week3/day1/day1.md) | [문제](https://www.acmicpc.net/problem/10816) |
+| 14  | 1920     | 수 찾기   | [✅](week3/day2/day2.md) | [문제](https://www.acmicpc.net/problem/1920) |
+| 15  | 1427     | 소트인사이드   | [✅](week3/day3/day3.md) | [문제](https://www.acmicpc.net/problem/1427) |
+| 16  | 4153     | 직각삼각형   | [✅](week3/day3/day3.md) | [문제](https://www.acmicpc.net/problem/4153) |
+| 17  | 11650    | 좌표 정렬하기   | [✅](week3/day3/day3.md) | [문제](https://www.acmicpc.net/problem/11650) |
+| 18  | 11651    | 좌표 정렬하기 2   | [✅](week3/day3/day3.md) | [문제](https://www.acmicpc.net/problem/11651) |
+| 19  | 1546     | 평균   | [✅](week3/day3/day3.md) | [문제](https://www.acmicpc.net/problem/1546) |
+| 20  | 2231     | 분해합   | ⬜ | [문제](https://www.acmicpc.net/problem/2231) |
+| 21  | 11724    | 연결 요소의 개수 (DFS) | ⬜ | [문제](https://www.acmicpc.net/problem/11724) |
+| 22  | 1260     | DFS와 BFS | ⬜ | [문제](https://www.acmicpc.net/problem/1260) 
+| 23  | 1018     | 체스판 다시 칠하기 (브루트포스) | ⬜ | [문제](https://www.acmicpc.net/problem/1018) |
+| 24  | 2239     | 스도쿠 (백트래킹 심화) | ⬜ | [문제](https://www.acmicpc.net/problem/2239) |
+| 25  | 11053    | 가장 긴 증가하는 부분 수열 (DP 입문) | ⬜ | [문제](https://www.acmicpc.net/problem/11053) |
+| 26  | 1932     | 정수 삼각형 (DP) | ⬜ | [문제](https://www.acmicpc.net/problem/1932) |
+| 27  | 1541     | 잃어버린 괄호 (그리디) | ⬜ | [문제](https://www.acmicpc.net/problem/1541) |
+| 28  | 1912     | 연속합 (실버 전 구간 마무리) | ⬜ | [문제](https://www.acmicpc.net/problem/1912) |
 
 ---
 
