@@ -54,6 +54,19 @@ vector 및 set|[코드](week1/day5/vector&set_study.md)
 # 📌 알고리즘 학습 체크리스트  
 
 ## ✅ Week 1  
+### Day 1
+- ✅ `markdown` 공부
+- ✅ '포인터','레지스터' 공부
+### Day 2
+- ✅ [백준 1065번 — 한수](https://www.acmicpc.net/problem/1065)
+- ✅ [백준 1978번 — 소수 찾기](https://www.acmicpc.net/problem/1978)
+### Day 3
+- ✅ [백준 4344번 — 평균은 넘겠지](https://www.acmicpc.net/problem/4344)
+- ✅ [백준 4673번 — 셀프 넘버](https://www.acmicpc.net/problem/4673)
+### Day 4
+- ✅ `STL` 공부
+### Day 5
+- ✅ `vector`, `set` 공부
 ### Day 6
 - ✅ [백준 2751번 — 수 정렬하기 2](https://www.acmicpc.net/problem/2751)  
 - ✅ `vector` + `sort` 활용  
