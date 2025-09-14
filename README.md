@@ -81,7 +81,7 @@ vector 및 set|[코드](week1/day5/vector&set_study.md)
 
 ---
 
-## 📍 Week 3  
+## ⬜ 📍 Week 3  
 ### Day 1
 - ✅ [백준 10816번 — 숫자 카드 2](https://www.acmicpc.net/problem/10816) (`map` / `unordered_map`)  
 - ✅ STL `unordered_map` 활용  
@@ -91,8 +91,8 @@ vector 및 set|[코드](week1/day5/vector&set_study.md)
 - ✅ 탐색 알고리즘 기초  
 
 ### Day 3
-- ⬜ `algorithm` 라이브러리 활용 문제 (sort, lower_bound, upper_bound)  
-- ⬜ STL 알고리즘 연습  
+- ✅ `algorithm` 라이브러리 활용 문제 (sort, lower_bound, upper_bound)  
+- ✅ STL 알고리즘 연습  
 
 ### Day 4
 - ⬜ [백준 2231번 — 분해합](https://www.acmicpc.net/problem/2231) (브루트포스)  
@@ -104,7 +104,7 @@ vector 및 set|[코드](week1/day5/vector&set_study.md)
 
 ---
 
-## 📍 Week 4  
+## ⬜ 📍 Week 4  
 ### Day 1
 - ⬜ [백준 11724번 — 연결 요소의 개수](https://www.acmicpc.net/problem/11724) (DFS)  
 - ⬜ DFS 기초 (재귀/스택 구현)  
