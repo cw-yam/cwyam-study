@@ -39,10 +39,10 @@ vector 및 set|[코드](week1/day5/vector&set_study.md)
 | 17  | 11650    | 좌표 정렬하기   | [✅](week3/day3/day3.md) | [문제](https://www.acmicpc.net/problem/11650) |
 | 18  | 11651    | 좌표 정렬하기 2   | [✅](week3/day3/day3.md) | [문제](https://www.acmicpc.net/problem/11651) |
 | 19  | 1546     | 평균   | [✅](week3/day3/day3.md) | [문제](https://www.acmicpc.net/problem/1546) |
-| 20  | 2231     | 분해합   | ⬜ | [문제](https://www.acmicpc.net/problem/2231) |
-| 21  | 11724    | 연결 요소의 개수 (DFS) | ⬜ | [문제](https://www.acmicpc.net/problem/11724) |
-| 22  | 1260     | DFS와 BFS | ⬜ | [문제](https://www.acmicpc.net/problem/1260) 
-| 23  | 1018     | 체스판 다시 칠하기 (브루트포스) | ⬜ | [문제](https://www.acmicpc.net/problem/1018) |
+| 20  | 2231     | 분해합   | [✅](week3/day4/day4.md) | [문제](https://www.acmicpc.net/problem/2231) |
+| 21  | 1018     | 체스판 다시 칠하기 (브루트포스) | [✅](week3/day5/day5.md) | [문제](https://www.acmicpc.net/problem/1018) |
+| 22  | 11724    | 연결 요소의 개수 (DFS) | ⬜ | [문제](https://www.acmicpc.net/problem/11724) |
+| 23  | 1260     | DFS와 BFS | ⬜ | [문제](https://www.acmicpc.net/problem/1260) 
 | 24  | 2239     | 스도쿠 (백트래킹 심화) | ⬜ | [문제](https://www.acmicpc.net/problem/2239) |
 | 25  | 11053    | 가장 긴 증가하는 부분 수열 (DP 입문) | ⬜ | [문제](https://www.acmicpc.net/problem/11053) |
 | 26  | 1932     | 정수 삼각형 (DP) | ⬜ | [문제](https://www.acmicpc.net/problem/1932) |
@@ -102,7 +102,7 @@ vector 및 set|[코드](week1/day5/vector&set_study.md)
 
 ---
 
-## ⬜ Week 3  
+## ✅ Week 3  
 ### Day 1
 - ✅ [백준 10816번 — 숫자 카드 2](https://www.acmicpc.net/problem/10816) (`map` / `unordered_map`)  
 - ✅ STL `unordered_map` 활용  
@@ -116,12 +116,12 @@ vector 및 set|[코드](week1/day5/vector&set_study.md)
 - ✅ STL 알고리즘 연습  
 
 ### Day 4
-- ⬜ [백준 2231번 — 분해합](https://www.acmicpc.net/problem/2231) (브루트포스)  
-- ⬜ 반복문/조건문 응용  
+- ✅ [백준 2231번 — 분해합](https://www.acmicpc.net/problem/2231) (브루트포스)  
+- ✅ 반복문/조건문 응용  
 
 ### Day 5
-- ⬜ [백준 1018번 — 체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) (브루트포스)  
-- ⬜ 브루트포스 심화 문제  
+- ✅ [백준 1018번 — 체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) (브루트포스)  
+- ✅ 브루트포스 심화 문제  
 
 ---
 
