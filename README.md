@@ -144,7 +144,54 @@ vector 및 set|[코드](week1/day5/vector&set_study.md)
 
 ### Day 5
 - ⬜ [백준 1932번 — 정수 삼각형](https://www.acmicpc.net/problem/1932) (DP)  
-- ⬜ Class 2 마무리 + DP 실력 강화  
+- ⬜ Class 2 마무리 + DP 실력 강화
+
+---
+
+## ⬜ Week 5  
+### Day 1
+- ⬜ [백준 2178번 — 미로 탐색](https://www.acmicpc.net/problem/2178) (BFS)  
+- ⬜ BFS 실전 연습  
+
+### Day 2
+- ⬜ [백준 15649번 — N과 M (1)](https://www.acmicpc.net/problem/15649) (백트래킹 기초)  
+- ⬜ 순열 생성, 재귀 기초  
+
+### Day 3
+- ⬜ [백준 9663번 — N-Queen](https://www.acmicpc.net/problem/9663) (백트래킹 심화)  
+- ⬜ 브루트포스 + 재귀 + 가지치기  
+
+### Day 4
+- ⬜ [백준 1463번 — 1로 만들기](https://www.acmicpc.net/problem/1463) (DP)  
+- ⬜ 점화식 세우기 연습  
+
+### Day 5
+- ⬜ [백준 2579번 — 계단 오르기](https://www.acmicpc.net/problem/2579) (DP)  
+- ⬜ DP 응용 문제  
+
+---
+
+## ⬜ Week 6  
+### Day 1
+- ⬜ [백준 11050번 — 이항 계수 1](https://www.acmicpc.net/problem/11050) (수학, 조합)  
+- ⬜ [백준 11051번 — 이항 계수 2](https://www.acmicpc.net/problem/11051) (DP + 조합)  
+- ⬜ 조합 계산 기본기  
+
+### Day 2
+- ⬜ [백준 1929번 — 소수 구하기](https://www.acmicpc.net/problem/1929) (에라토스테네스의 체)  
+- ⬜ 소수 판별 최적화  
+
+### Day 3
+- ⬜ [백준 2609번 — 최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609) (유클리드 호제법)  
+- ⬜ GCD, LCM 활용  
+
+### Day 4
+- ⬜ [백준 1316번 — 그룹 단어 체커](https://www.acmicpc.net/problem/1316) (문자열 처리)  
+- ⬜ 문자열 탐색 로직 구현  
+
+### Day 5
+- ⬜ 복습 + GitHub 정리 (Week 5~6 문제 개념 리뷰)  
+- ⬜ 풀이 개선점 / 새로 배운 개념 정리  
 
 ---
 
