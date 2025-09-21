@@ -35,6 +35,19 @@ void search(Node root) {
 }
 ```
 
+```cpp
+vector<vector<int>> adj;
+vector<bool> visited;
+
+void dfs(int v) {
+    visited[v] = true;
+    cout << v << " ";
+    for (int nxt : adj[v]) {
+        if (!visited[nxt]) dfs(nxt);
+    }
+}
+```
+
 ### 2. 스택 이용 (pseudocode)
 
 ```cpp
@@ -49,7 +62,7 @@ function DFS_stack(start):
             mark node as visited
             process(node)  // (예: 출력)
 
-            for each neighbor in reversed(adj[node]):
+            for each neighbor in reversed(adj[node]): // sort 구현
                 if neighbor is not visited:
                     S.push(neighbor)
 ```
