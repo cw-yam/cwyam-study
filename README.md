@@ -9,7 +9,7 @@
 
  제목|링크  
  :---:|:---
-포인터와 레지스터|[코드](week1/day1/pointer_reference.md)
+포인터와 레지스터|[코드](week1/day1/pointer_reference_study.md)
 markdown 공부|[코드](week1/day1/markdown_study.md)
 STL 공부|[코드](week1/day4/STL_study.md)
 vector 및 set|[코드](week1/day5/vector&set_study.md)
